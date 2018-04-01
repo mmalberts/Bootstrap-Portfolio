@@ -1,5 +1,5 @@
 body{
-	background-image: url("../images/whirlpool.png");
+	background-image: url("../images/hexellence.png");
 	padding-bottom: 70px;
 }
 
@@ -45,7 +45,7 @@ p {
 }
 
 #aboutline {
-	color: #63a7a4;
+	color: #72a8ff;
 	padding-bottom: 20px;
 	border-bottom: 3px solid #cccccc;
 }
@@ -69,7 +69,7 @@ p {
 }*/
 
 #connectline {
-	color: #63a7a4;
+	color: #72a8ff;
 	padding-bottom: 20px;
 	border-bottom: 2px solid #cccccc;
 }
@@ -79,8 +79,9 @@ p {
 	height: 80px;
 	padding: 20px 0px 20px 0px;
 	text-align: center;
-	border-top: 8px solid #63a7a4;
+	border-top: 8px solid #72a8ff;
 	background: #666666;
+	opacity: 0.8;
 }
 
 #foottext {
@@ -100,7 +101,7 @@ p {
 }
 
 .submitbutton {
-	background: #63a7a4;
+	background: #72a8ff;
 	width: 100px;
 	height: 40px;
 	color: #ffffff;
@@ -121,8 +122,9 @@ p {
 }
 
 .pictext {
-	color: #ffffff;
-	background: #63a7a4;
+	color: #2d2d2d;
+	background: #ffffff;
+	opacity: 0.85;
 	text-align: center;
 	padding: 10px;
 }
